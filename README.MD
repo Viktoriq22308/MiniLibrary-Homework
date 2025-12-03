@@ -17,6 +17,7 @@
 
 ## Структура на проекта
 
+```
 library_homework/
 ├── Author.h
 ├── Book.h
@@ -26,6 +27,7 @@ library_homework/
 ├── main.cpp
 └── README.md
 
+```
 
 ---
 
@@ -192,15 +194,15 @@ PS C:\Users\PC\Desktop\22308\c++\22308 Homework>
 
 ---
 ## ЕКРАННА СНИМКА:
-<img width="1911" height="1012" alt="output" src="https://github.com/user-attachments/assets/986c3b0c-a0db-44b8-ba8c-f65d94f1d285" />
+<img width="1243" height="332" alt="Image" src="https://github.com/user-attachments/assets/65c4dec4-a78f-4f1d-9fe2-aa4af58b8f0f" />
 
-
+---
 ## Автор
 
-* Име: ИВЕЛИН БОРИСЛАВОВ РАЙНОВСКИ
-* Номер: 22315
+* Име: Виктория Марямова Иванова
+* Номер: 22308
 * Курс: Обектно-ориентирано програмиране (C++)
-* Дата: 12/2/2025
+* Дата: 12/3/2025
 
 
 
