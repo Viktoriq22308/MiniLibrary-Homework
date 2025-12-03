@@ -34,10 +34,12 @@ library_homework/
 ## Компилация и изпълнение
 
 Отворете терминал в директорията на проекта и изпълнете:
-
+```bash
 g++ -std=gnu++17 -Wall -Wextra -O2 -o library main.cpp
+```
+```bash
 .\library
-
+```
 
 ---
 
