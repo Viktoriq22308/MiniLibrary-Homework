@@ -18,7 +18,7 @@
 ## Структура на проекта
 
 ```
-library_homework/
+22308 HOMEWORK/
 ├── Author.h
 ├── Book.h
 ├── Member.h
