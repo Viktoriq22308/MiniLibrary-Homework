@@ -191,8 +191,17 @@ White nights | Fyodor Dostoevski (1850) | 1880 | 10.990000 BGN | ISBN-002
 PS C:\Users\PC\Desktop\22308\c++\22308 Homework> 
 
 ---
-## ЕКРАННА СНИМКА
-22308-homeowrk.png
+## ЕКРАННА СНИМКА:
+<img width="1911" height="1012" alt="output" src="https://github.com/user-attachments/assets/986c3b0c-a0db-44b8-ba8c-f65d94f1d285" />
+
+
+## Автор
+
+* Име: ИВЕЛИН БОРИСЛАВОВ РАЙНОВСКИ
+* Номер: 22315
+* Курс: Обектно-ориентирано програмиране (C++)
+* Дата: 12/2/2025
+
 
 
 
