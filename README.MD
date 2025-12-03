@@ -183,6 +183,8 @@ int main() {
 
     return 0;
 }
+
+```md
 ---
 ## ПРИМЕРЕН ИЗХОД
 ```cpp
@@ -192,7 +194,6 @@ Available ISBN-001? false
 Available ISBN-001? true
 Crime and punishment | Fyodor Dostoevski (1850) | 1866 | 30.700000 BGN | ISBN-001
 White nights | Fyodor Dostoevski (1850) | 1880 | 10.990000 BGN | ISBN-002
-
 
 ---
 
