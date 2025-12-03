@@ -192,6 +192,9 @@ PS C:\Users\PC\Desktop\22308\c++\22308 Homework>
 
 ---
 ## ЕКРАННА СНИМКА
+22308-homeowrk.png
+
+
 
 
 
