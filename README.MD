@@ -23,7 +23,7 @@ library_homework/
 ├── Book.h
 ├── Member.h
 ├── Loan.h
-├── Library.h
+├── Libraly.h
 ├── main.cpp
 └── README.md
 
