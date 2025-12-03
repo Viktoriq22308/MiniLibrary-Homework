@@ -202,7 +202,7 @@ White nights | Fyodor Dostoevski (1850) | 1880 | 10.990000 BGN | ISBN-002
 
 ## ЕКРАННА СНИМКА
 
-https://github.com/Viktoriq22308/MiniLibrary-Homework/blob/cf213e4a2dc754837961c50aae9633c56aabdb23/22308-homeowrk.png
+22308-homeowrk.png
 
 ---
 
