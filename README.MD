@@ -187,8 +187,9 @@ int main() {
 
 
 ---
-## ПРИМЕРЕН ИЗХОД
-```cpp
+## ПРИМЕРЕН ИЗХОД 
+
+```
 Books: 2, Members: 1, Loans: 0
 Loan is created.
 Available ISBN-001? false
